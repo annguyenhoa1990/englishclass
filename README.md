@@ -54,7 +54,7 @@ englishclass/
     └── images/
         ├── teacher-placeholder.svg    # Replace with teacher.jpg
         ├── family-placeholder.svg     # Replace with family.jpg
-        └── class-placeholder.svg      # Replace with class.jpg
+        └── class.png                  # Class poster
 ```
 
 ---
@@ -67,7 +67,7 @@ Convert your photos to the following formats and sizes:
 
 - **teacher.jpg** - Portrait photo of you (400x400px minimum)
 - **family.jpg** - Family/personal photo (400x300px minimum)
-- **class.jpg** - Classroom/group learning photo (400x300px minimum)
+- **class.png** - Class poster or group learning image (400x300px minimum)
 
 Place them in the `assets/images/` folder.
 
@@ -96,7 +96,7 @@ Open `index.html` and find the image tags (use Ctrl+F / Cmd+F to search):
 <!-- Around line 125 -->
 <img src="assets/images/class-placeholder.svg" alt="...">
 <!-- Change to: -->
-<img src="assets/images/class.jpg" alt="Lớp học Tiếng Anh giao tiếp miễn phí">
+<img src="assets/images/class.png" alt="Lớp học Tiếng Anh giao tiếp miễn phí">
 ```
 
 ---

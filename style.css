@@ -438,6 +438,7 @@ li {
 .hero-image img {
     display: block;
     width: min(100%, 500px);
+    max-width: 100%;
     height: min(70vh, 620px);
     object-fit: contain;
     object-position: center;
@@ -537,6 +538,7 @@ li {
 
 .about-image img {
     width: 100%;
+    max-width: 100%;
     height: min(70vh, 620px);
     object-fit: contain;
     object-position: center;
