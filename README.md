@@ -80,7 +80,7 @@ Open `index.html` and find the image tags (use Ctrl+F / Cmd+F to search):
 <!-- Around line 240 -->
 <img src="assets/images/teacher-placeholder.svg" alt="...">
 <!-- Change to: -->
-<img src="assets/images/teacher.jpg" alt="Nguyễn Hoà An - Giáo viên tiếng Anh">
+<img src="assets/images/teacher.jpg" alt="Nguyễn Hoà An - Giáo viên Tiếng Anh">
 ```
 
 **For family photo:**
@@ -96,7 +96,7 @@ Open `index.html` and find the image tags (use Ctrl+F / Cmd+F to search):
 <!-- Around line 125 -->
 <img src="assets/images/class-placeholder.svg" alt="...">
 <!-- Change to: -->
-<img src="assets/images/class.jpg" alt="Lớp học tiếng Anh giao tiếp miễn phí">
+<img src="assets/images/class.jpg" alt="Lớp học Tiếng Anh giao tiếp miễn phí">
 ```
 
 ---
